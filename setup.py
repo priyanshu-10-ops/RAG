@@ -14,9 +14,9 @@ setuptools.setup(
     description="A simple RAG pipeline for question answering",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/behitek/simple-rag/",
+    url="https://github.com/priyanshu-10-ops/RAG",
     project_urls={
-        "Bug Tracker": "https://github.com/behitek/simple-rag/issues",
+        "Bug Tracker": "https://github.com/priyanshu-10-ops/RAG/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
