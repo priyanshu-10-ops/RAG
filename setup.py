@@ -9,8 +9,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setuptools.setup(
     name="simple-rag",
     version="0.0.1",
-    author="Hieu Nguyen",
-    author_email="hieunv.dev@gmail.com",
+    author="Priyanshu Kumar",
+    author_email="priyanshu.devops10@gmail.com",
     description="A simple RAG pipeline for question answering",
     long_description=long_description,
     long_description_content_type="text/markdown",
